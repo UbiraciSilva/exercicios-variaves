@@ -1,0 +1,15 @@
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\bin\Debug\net6.0\ExerciLogicaOneAbril.exe
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\bin\Debug\net6.0\ExerciLogicaOneAbril.deps.json
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\bin\Debug\net6.0\ExerciLogicaOneAbril.runtimeconfig.json
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\bin\Debug\net6.0\ExerciLogicaOneAbril.dll
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\bin\Debug\net6.0\ExerciLogicaOneAbril.pdb
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ExerciLogicaOneAbril.csproj.AssemblyReference.cache
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ExerciLogicaOneAbril.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ExerciLogicaOneAbril.AssemblyInfoInputs.cache
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ExerciLogicaOneAbril.AssemblyInfo.cs
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ExerciLogicaOneAbril.csproj.CoreCompileInputs.cache
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ExerciLogicaOneAbril.dll
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\refint\ExerciLogicaOneAbril.dll
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ExerciLogicaOneAbril.pdb
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ExerciLogicaOneAbril.genruntimeconfig.cache
+C:\Users\x302877\source\repos\ExercicioLogicaVariaveis\ExerciLogicaOneAbril\obj\Debug\net6.0\ref\ExerciLogicaOneAbril.dll
